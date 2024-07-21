@@ -2,8 +2,6 @@
 - 👀 I’m interested in creating outreach strategies, writing documentation, running marketing campaigns, and measuring results. 
 - 🌱 I’m currently learning Data Analysis and Digital Marketing.
 - 💞️ I’m looking to collaborate on data analysis and reporting projects.
-- 📫 You can reach me via email at nchijindu@gmail.com. 
-- 😄 Pronouns: She, Her.
 - ⚡ Fun fact: Running in the evening is my expression of freedom.
 
 <!---
